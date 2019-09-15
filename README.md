@@ -89,7 +89,7 @@ Lesson  | Unit Number | Session Number |
 [Logistic Regression][1-1M]                     | Unit 3 | Session 12 |
 [Clustering][2-1A]                              | Unit 3 | Session 13 |
 [Decision Trees][2-1B]                          | Unit 3 | Session 14 |
-[Random Forest][2-1E]                           | Unit 3 | Session 15 |
+[FLEX]                                          | Unit 3 | Session 15 |
 --- | ---  | ---  |
 [Intro to Natural Language Processing][1-1P]    | Unit 4 | Session 16 |
 [Intro to Time Series][1-1Q]                    | Unit 4 | Session 17 |
