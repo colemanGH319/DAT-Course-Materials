@@ -132,13 +132,11 @@ Title  |
 [Decision Trees][2-1B]       
 [Robust Regression][2-1C]
 [Deploying Models with Flask][2-1D]
-[Random Forest][2-1E]
 
 [2-1A]: ./lessons/optional/clustering/
 [2-1B]: ./lessons/optional/decision-trees/
 [2-1C]: ./lessons/optional/robust-regression/
 [2-1D]: ./lessons/optional/deploying-models-flask/
-[2-1E]: ./lessons/optional/random-forest/
 
 ---
 
