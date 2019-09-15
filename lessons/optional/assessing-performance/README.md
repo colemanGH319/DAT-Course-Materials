@@ -9,7 +9,7 @@
 | Topic | Description | Link |
 | --- | --- | --- |
 | Lesson | Assessing Performance Lesson | [Here](./assessing-performance-lesson.ipynb) |
-| Solution  | Solution code for Lesson Prompts | [Here](./) |
+| Solution  | Solution code for Lesson Prompts | [Here](./assessing-performance-lesson-solutions.ipynb) |
 | Datasets | Titanic Survival (CSV): Passenger/survival info. | [Here](./data/titanic.csv) |
 | Practice |  | [Here](./) |
 
@@ -51,4 +51,3 @@ Before this lesson(s), students should already be:
 
 ## Homework
 - Project 2
-
