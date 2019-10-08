@@ -15,11 +15,15 @@
   },
   {
    "cell_type": "code",
+<<<<<<< HEAD
+   "execution_count": 2,
+=======
 <<<<<<< Updated upstream
    "execution_count": 1,
 =======
    "execution_count": 2,
 >>>>>>> Stashed changes
+>>>>>>> f081b27b1dcb94552a061a7e767ac143d394d5f8
    "metadata": {},
    "outputs": [],
    "source": [
@@ -39,11 +43,15 @@
   },
   {
    "cell_type": "code",
+<<<<<<< HEAD
+   "execution_count": 3,
+=======
 <<<<<<< Updated upstream
    "execution_count": 2,
 =======
    "execution_count": 3,
 >>>>>>> Stashed changes
+>>>>>>> f081b27b1dcb94552a061a7e767ac143d394d5f8
    "metadata": {},
    "outputs": [],
    "source": [
@@ -52,11 +60,15 @@
   },
   {
    "cell_type": "code",
+<<<<<<< HEAD
+   "execution_count": 5,
+=======
 <<<<<<< Updated upstream
    "execution_count": 3,
 =======
    "execution_count": 5,
 >>>>>>> Stashed changes
+>>>>>>> f081b27b1dcb94552a061a7e767ac143d394d5f8
    "metadata": {},
    "outputs": [
     {
@@ -166,11 +178,15 @@
        "4              Art For Arts Sake by 10cc       1      1          1    1  "
       ]
      },
+<<<<<<< HEAD
+     "execution_count": 5,
+=======
 <<<<<<< Updated upstream
      "execution_count": 3,
 =======
      "execution_count": 5,
 >>>>>>> Stashed changes
+>>>>>>> f081b27b1dcb94552a061a7e767ac143d394d5f8
      "metadata": {},
      "output_type": "execute_result"
     }
