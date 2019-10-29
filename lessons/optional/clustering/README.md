@@ -8,9 +8,7 @@
 
 | Topic | Description | Link |
 | --- | --- | --- |
-| Lesson | Part 1: Kmeans | [Here](./01_intro-to-kmeans.ipynb) |
-| Lesson | Part 2: Dbscan (*Optional*) | [Here](.02_clustering_adv.ipynb) |
-| Solution  | Part 2: Solution code for questions and exercises | [Here](./solution-code/02_clustering_adv-solution.ipynb) |
+| Lesson | Clustering | [Here](./clustering_lesson.ipynb) |
 | Datasets | Beer nutrition and cost | [Here](./data/beer.txt) |
 | Extra Practice | Four additional labs for practice | [Here](./practice/) |
 
@@ -22,13 +20,12 @@
 
 After this lesson, students will be able to:
 
-### Part One: KMeans
-- Determine the difference between supervised and unsupervised learning.
-- Demonstrate how to apply k-means clustering.
-
-### Part Two: DBScan
-- Demonstrate how to apply density-based clustering (DBSCAN).
-- Define the Silhouette Coefficient and explain how it relates to clustering.
+- Explain the difference between supervised and unsupervised learning.
+- Format and preprocess data for clustering
+- Understand and know how to apply k-means clustering.
+- Understand and know how to apply density-based clustering (DBSCAN).
+- Define Inertia and Silhouette score and how they relate to clustering.
+- Evaluate clusters for fit
 
 ---
 
@@ -43,35 +40,26 @@ Before this lesson(s), students should already be able to:
 ---
 
 ## Lesson Outline
-> TOTAL (170 min)
-
-> **Rapid Schedule:** For a half-lesson, consider only covering part one (k-means). If additional time is needed, the k-means metric explanation could be skipped.
-
-
-### OUTLINE: PART ONE (K-MEANS)
-> Total: 80 min 
-- Unsupervised Learning (15 min)
-    - Unsupervised Learning Example: Coin Clustering
-    - Common Types of Unsupervised Learning
-    - Using Multiple Types of Learning Together
-- Clustering (15 min)
-- K-Means: Centroid Clustering (30 min)
-    - Visual Demo
-    - K-Means Assumptions
-- K-Means Demo (20 min)
-    - K-Means Clustering
-    - Repeat With Scaled Data
-
-### OUTLINE: PART TWO (DBScan)
-> Total: 90 min
-
-- DBSCAN: Density-Based Clustering (25 min)
-    - Visual Demo
-- DBSCAN Clustering Demo (10 min)
-- Hierarchical Clustering (20 min)
-- Clustering Metrics (15 min)
-- Clustering, Classification, and Regression (15 min)
-- Comparing Clustering Algorithms (5 min)
+- Supervised vs. Unsupervised Learning
+- Unsupervised Learning
+  - How could unsupervised learning or clustering be useful?
+  - Unsupervised Learning Example: Coin Clustering
+  - Common Types of Unsupervised Learning
+  - Using Multiple Types of Learning Together
+- Clustering
+- K-Means: Centroid Clustering
+  - Visual Demo
+  - K-Means Assumptions
+- K-Means Demo
+  - K-Means Clustering
+  - Repeat With Scaled Data
+- Clustering Metrics
+- DBSCAN: Density-Based Clustering
+  - Visual Demo
+- DBSCAN Clustering Demo
+- Hierarchical Clustering
+- Clustering, Classification, and Regression
+- Comparing Clustering Algorithms
 - Lesson Summary
 
 ---
