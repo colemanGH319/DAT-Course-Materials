@@ -89,8 +89,8 @@ Lesson  | Unit Number | Session Number |
 [Logistic Regression][1-1M]                     | Unit 3 | Session 12 |
 [Clustering][2-1A]                              | Unit 3 | Session 13 |
 [Decision Trees][2-1B]                          | Unit 3 | Session 14 |
-[Decision Trees][2-1E]                          | Unit 3 | Session 15 |
-[Decision Trees][2-1F]                          | Unit 3 | Session 15 |
+[Support Vector Machines][2-1E]                 | Unit 3 | Session 15 |
+[Dimensionality Reduction PCA][2-1F]            | Unit 3 | Session 15 |
 --- | ---  | ---  |
 [Intro to Natural Language Processing][1-1P]    | Unit 4 | Session 16 |
 [Intro to Time Series][1-1Q]                    | Unit 4 | Session 17 |
